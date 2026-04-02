@@ -1,3 +1,10 @@
+# Test Run Summary
+- Total Test Cases: 27
+- Passed: 17
+- Failed: 10
+- In Progress: 0
+- Not started: 0
+
 | Test Case | Status |
 |-----------|--------|
 | TC01      | Passed |
