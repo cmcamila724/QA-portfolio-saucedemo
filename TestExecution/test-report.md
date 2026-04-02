@@ -13,25 +13,24 @@
 | TC04      | Passed |
 | TC05      | Passed |
 | TC06      | Passed |
+| TC07      | Passed |
 | TC08      | Passed |
 | TC09      | Failed |
 | TC010     | Failed |
 | TC011     | Failed |
 | TC012     | Failed |
 | TC013     | Failed |
-| TC014     | Passed |
+| TC014     | Failed |
 | TC015     | Passed |
-| TC016     | Failed |
-| TC017     | Passed |
-| TC018     | Failed |
-| TC019     | Passed |
+| TC016     | Passed |
+| TC017     | Failed |
+| TC018     | Passed |
+| TC019     | Failed |
 | TC020     | Passed |
 | TC021     | Passed |
-| TC022     | Failed |
-| TC023     | Passed |
+| TC022     | Passed |
+| TC023     | Failed |
 | TC024     | Passed |
 | TC025     | Passed |
-| TC026     | Failed |
-
-# Passed = 17
-# Failed = 10
+| TC026     | Passed |
+| TC027     | Failed |
