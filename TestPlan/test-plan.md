@@ -73,8 +73,8 @@ Each defect must include:
 - Screenshots
 
 # 8. Risks
-Environment stability. 
-Wrong data entry.
+- Environment stability. 
+- Wrong data entry.
 
 # 9. Test Deliverables
 The following deliverables will be produced:
