@@ -23,5 +23,5 @@ Manual QA project on SauceDemo, focused on validating the e-commerce purchase fl
 - Bug tracking: Jira style reports
 
 ## Test Environment
-Browser: Chrome
-OS: Windows
+- Browser: Chrome
+- OS: Windows
